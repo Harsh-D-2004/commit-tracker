@@ -13,3 +13,4 @@
 [2026-03-16 14:58:42 +0530] Harsh Doshi: Update daily_report_evaluator.py (a0f3a4a)
 [2026-03-16 11:27:36 +0530] Harsh Doshi: index on DEV-6429: c14acaf test-2 (89eafb1)
 [2026-03-23 15:24:58 +0530] Harsh Doshi: Dev-6670: daily report fixes (87c2a28)
+[2026-03-23 11:22:25 +0530] Harsh Doshi: index on tsc-tables: 0e98e41f tsc-tables: added tsc tables (a479566)
